@@ -1,0 +1,14 @@
+C:\Users\Melanie Calata\Documents\Calata_Activity2\bin\Debug\net10.0\Calata_Activity2.exe
+C:\Users\Melanie Calata\Documents\Calata_Activity2\bin\Debug\net10.0\Calata_Activity2.deps.json
+C:\Users\Melanie Calata\Documents\Calata_Activity2\bin\Debug\net10.0\Calata_Activity2.runtimeconfig.json
+C:\Users\Melanie Calata\Documents\Calata_Activity2\bin\Debug\net10.0\Calata_Activity2.dll
+C:\Users\Melanie Calata\Documents\Calata_Activity2\bin\Debug\net10.0\Calata_Activity2.pdb
+C:\Users\Melanie Calata\Documents\Calata_Activity2\obj\Debug\net10.0\Calata_Activity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melanie Calata\Documents\Calata_Activity2\obj\Debug\net10.0\Calata_Activity2.AssemblyInfoInputs.cache
+C:\Users\Melanie Calata\Documents\Calata_Activity2\obj\Debug\net10.0\Calata_Activity2.AssemblyInfo.cs
+C:\Users\Melanie Calata\Documents\Calata_Activity2\obj\Debug\net10.0\Calata_Activity2.csproj.CoreCompileInputs.cache
+C:\Users\Melanie Calata\Documents\Calata_Activity2\obj\Debug\net10.0\Calata_Activity2.dll
+C:\Users\Melanie Calata\Documents\Calata_Activity2\obj\Debug\net10.0\refint\Calata_Activity2.dll
+C:\Users\Melanie Calata\Documents\Calata_Activity2\obj\Debug\net10.0\Calata_Activity2.pdb
+C:\Users\Melanie Calata\Documents\Calata_Activity2\obj\Debug\net10.0\Calata_Activity2.genruntimeconfig.cache
+C:\Users\Melanie Calata\Documents\Calata_Activity2\obj\Debug\net10.0\ref\Calata_Activity2.dll
