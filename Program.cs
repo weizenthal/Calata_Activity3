@@ -16,12 +16,13 @@ namespace UnitConverterApp
                 Console.WriteLine("1. Meters to Kilometers");
                 Console.WriteLine("2. Kilometers to Meters");
                 Console.WriteLine("3. Celsius to Fahrenheit");
-                Console.WriteLine("4. Exit");
+                Console.WriteLine("4. Fahrenheit to Celsius"); // New Option
+                Console.WriteLine("5. Exit"); // Moved Exit to 5
                 Console.Write("\nSelect an option: ");
 
                 string choice = Console.ReadLine();
 
-                if (choice == "4")
+                if (choice == "5")
                 {
                     running = false;
                     Console.WriteLine("Exiting application...");
@@ -47,8 +48,12 @@ namespace UnitConverterApp
                             double fahrenheit = (input * 9 / 5) + 32;
                             Console.WriteLine($"{input}°C = {fahrenheit}°F");
                             break;
+                        case "4":
+                            double celsius = (input - 32) * 5 / 9;
+                            Console.WriteLine($"{input}°F = {celsius}°C");
+                            break;
                         default:
-                            Console.WriteLine("Invalid selection. Please choose 1, 2, 3, or 4.");
+                            Console.WriteLine("Invalid selection. Please choose 1, 2, 3, 4, or 5.");
                             break;
                     }
                 }
